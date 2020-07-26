@@ -22,4 +22,4 @@ Optionally, you can use [LabelImg](https://github.com/tzutalin/labelImg) to labe
 
 Just follow the steps mentioned in the notebook and get started 😬. 
 <br>
-**Check it out here :** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/reubenbf/quick-yolov4-tiny/)
+**Check it out here :** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reubenbf/quick-yolov4-tiny/)
